@@ -1,1 +1,1 @@
-rquickExpr = /^([A-Z])\w+$/
+rquickExpr = /^(?:\s*(<[\w\W]+>)[^>]*|#([\w-]*))$/
