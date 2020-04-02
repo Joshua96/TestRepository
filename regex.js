@@ -1,0 +1,1 @@
+rquickExpr = /^([A-Z])\w+$/
