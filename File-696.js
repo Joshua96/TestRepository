@@ -1,0 +1,1 @@
+alert("File-696.js");

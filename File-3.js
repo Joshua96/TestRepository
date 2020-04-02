@@ -1,0 +1,1 @@
+alert("File-3.js");

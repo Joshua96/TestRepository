@@ -1,0 +1,1 @@
+alert("File-52.js");

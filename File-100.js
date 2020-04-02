@@ -1,0 +1,1 @@
+alert("File-100.js");
